@@ -6,5 +6,7 @@ It is now established that the urinary bladder harbors a community of microbes t
 
 ## Obtaining Data
 
+Raw sequencing data can be accessed under BioProject PRJNA912725.
+
 ## Reproducing Sequencing Analysis
 
