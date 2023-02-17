@@ -10,7 +10,7 @@ Raw sequencing data can be accessed under BioProject PRJNA912725. Metadata for b
 
 ## Reproducing Sequencing Analysis
 
-The R Markdown document "Supplementary_Methods" includes all code used for processing and analyzing 16S rRNA sequencing data. 
+The R Markdown document "Supplementary_Methods" includes all R code used for processing and analyzing 16S rRNA sequencing data. 
 
 
 ## Citation
