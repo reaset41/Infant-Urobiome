@@ -6,7 +6,7 @@ The urinary bladder harbors a community of microbes termed the urobiome, which r
 
 ## Obtaining Data
 
-Raw sequencing data can be accessed under BioProject PRJNA912725. Supplementary Table S6 includes all sample accession information. Metadata for both sequencing runs is available within this repository. 
+Raw sequencing data can be accessed under BioProject PRJNA912725. Supplementary Table S7 includes all sample accession information. Metadata for both sequencing runs is available within this repository. 
 
 ## Reproducing Sequencing Analysis
 
