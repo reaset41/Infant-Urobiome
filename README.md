@@ -15,4 +15,4 @@ The R Markdown document "Supplementary_Methods" includes all R code used for pro
 
 ## Citation
 
-To cite the paper, please use: 
+To cite the paper, please use: Reasoner, S.A., Flores, V., Van Horn, G. et al. Survey of the infant male urobiome and genomic analysis of Actinotignum spp.. npj Biofilms Microbiomes 9, 91 (2023). https://doi.org/10.1038/s41522-023-00457-6
